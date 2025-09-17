@@ -8,10 +8,10 @@ A **Laravel API** where your tasks and notes live together seamlessly — organi
 
 ## 🚀 Key Features  
 
+- **Organized Workflow**: Keep your tasks and notes in sync, all in one place.  
 - **Task Management**: Create, update, and delete tasks with ease.  
 - **Notes Integration**: Attach notes to tasks or keep them standalone.  
-- **REST API**: Built with Laravel, designed for clean integration with any frontend.  
-- **Organized Workflow**: Keep your tasks and notes in sync, all in one place.  
+- **REST API**: Built with Laravel, designed for clean integration with any frontend.
 
 ---
 
